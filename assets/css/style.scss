@@ -3,6 +3,27 @@
 
 @import "{{ site.theme }}";
 
+nav {
+  display: none;
+}
+
 body {
-  background-color: #D6B588;
+  background-color: #B89F8A;
+}
+
+.main-content {
+  background-color: #EFE0D2;
+  max-width: 800px;
+}
+
+h1 {
+  border-bottom: 5px solid #B89F8A;
+}
+
+h2 {
+  border-bottom-color: #B89F8A;
+}
+
+p {
+  margin-bottom: 1.2 em;
 }
