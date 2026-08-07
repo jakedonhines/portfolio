@@ -3,17 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.site-nav {
+.site-header {
   display: none;
 }
 
 body {
-  background-color: #B89F8A;
-}
-
-.main-content {
   background-color: #EFE0D2;
-  max-width: 800px;
 }
 
 h1 {
