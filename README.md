@@ -1,12 +1,3 @@
----
----
-@import "{{ site.theme }}";
-
-body {
-  background-color: #D6B588
-}
-
-<div align="center">
 # Jacob Hines Computer Science ePortfolio
 ### SNHU CS 499 Capstone
   
